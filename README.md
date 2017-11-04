@@ -8,3 +8,4 @@ A collection of personal files and tools in a variety of languages.
 ## Ideas
 - [ ] Static site generator
 - [ ] Auto-exam period schedule integrating Google Calendar 
+- [x] basic pdf merger
