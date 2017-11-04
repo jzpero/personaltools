@@ -5,7 +5,9 @@ A basic pdf merging tool in Python.
 ## Usage
 Example:
 
-```python pdfmerge.py file1.pdf file2.pdf [0:10:2] [1:5] -o file3.pdf```
+```
+python pdfmerge.py file1.pdf file2.pdf [0:10:2] [1:5] -o file3.pdf
+```
 
 Planned options:
 ```
@@ -29,5 +31,5 @@ optional arguments:
 - [PyPDF2](https://github.com/mstamy2/PyPDF2)
 
 ## To-Do
-- implement alternate flag
-- fix bookmark merging
+- [ ] implement alternate flag
+- [ ] fix bookmark merging
